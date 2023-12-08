@@ -23,7 +23,4 @@ Copy code
 python main.py
 Ekran Görüntüleri
 github_1
-Kamera 1 Görüntüsü
-
-Kamera 2 Görüntüsü
-Kamera 2 Görüntüsü
+![github_1](https://github.com/necipsahamettinkucuk/IP-kameradan-nesne-takibi/assets/121046682/0d378322-cd56-44e9-bd61-f1a3ae5b837d)
