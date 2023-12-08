@@ -9,14 +9,15 @@ Projenizi çalıştırmak için aşağıdaki adımları izleyin.
 1. **Gerekli Kütüphanelerin Yüklenmesi:**
    ```bash
    pip install -r requirements.txt
+IP kameralardan alınan görüntülerdeki canlı olarak insan yada nesne tespiti için yoloya uygun coco ağırlığını indirmek için;
 YOLOv8 Ağırlıklarının İndirilmesi: https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8s.pt
 YOLOv8 ağırlıklarını YOLOv8 GitHub sayfasından indirin ve proje dizinine yerleştirin.
 
 Konfigürasyon Dosyasının Ayarlanması:
-config.yaml dosyasını düzenleyerek IP kameralarınızın adreslerini ve diğer ayarları yapın.
+Kamera IP'leri ve o kameraların ID ve şifrelerini camera_1, camera_2 olarak belirtilen scriptlerin içinden ayarlayabilirsiniz. 
+<i>not: Daha fazla kameranız varsa eğer "camera" scriptlerini kopyalayıp çoğaltabilirsiniz bu işemi yaptıntan sonra oluiturduğunuz yeni scriptleri çağırmayı unutmayın</i>
+ 
 
-Kullanım
-Projenizi başlatmak için terminalde aşağıdaki komutu kullanın:
 
 bash
 Copy code
