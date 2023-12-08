@@ -22,7 +22,7 @@ bash
 Copy code
 python main.py
 Ekran Görüntüleri
-Kamera 1 Görüntüsü
+github_1
 Kamera 1 Görüntüsü
 
 Kamera 2 Görüntüsü
