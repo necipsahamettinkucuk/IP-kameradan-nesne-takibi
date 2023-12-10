@@ -22,7 +22,8 @@ YOLOv8 ağırlıklarını YOLOv8 GitHub sayfasından indirin ve proje dizinine y
 <br>
 Konfigürasyon Dosyasının Ayarlanması:<br>
 Kamera IP'leri ve o kameraların ID ve şifrelerini camera_1, camera_2 olarak belirtilen scriptlerin içinden ayarlayabilirsiniz. 
-<br> Bağlanacağınız kameranın id ve şifresini belirtilen bölüme yazınız.
+<br> Bağlanacağınız kameranın id ve şifresini belirtilen bölüme yazınız.<br>
+
 ![image](https://github.com/necipsahamettinkucuk/IP-kameradan-nesne-takibi/assets/121046682/6184fe30-dffe-4343-bd49-f74d71196eea)
 
 <br><i>Not: Daha fazla kameranız varsa eğer "camera" scriptlerini kopyalayıp çoğaltabilirsiniz bu işemi yaptıntan sonra oluşturduğunuz yeni scriptleri main'den çağırmayı unutmayın çağırmayı unutmayın</i>
