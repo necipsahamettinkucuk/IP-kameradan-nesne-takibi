@@ -19,5 +19,5 @@ Kamera IP'leri ve o kameraların ID ve şifrelerini camera_1, camera_2 olarak be
 <br> Bağlanacağınız kameranın id ve şifresini belirtilen bölüme yazınız.<br>
 ![image](https://github.com/necipsahamettinkucuk/IP-kameradan-nesne-takibi/assets/121046682/6184fe30-dffe-4343-bd49-f74d71196eea)
 <i>Not: Daha fazla kameranız varsa eğer "camera" scriptlerini kopyalayıp çoğaltabilirsiniz bu işemi yaptıntan sonra oluşturduğunuz yeni scriptleri main'den çağırmayı unutmayın çağırmayı unutmayın</i>
-<br>https://github.com/necipsahamettinkucuk/IP-kameradan-nesne-takibi/assets/121046682/37055a47-9453-48bc-ae66-f45f708f74d1
+<br>!https://github.com/necipsahamettinkucuk/IP-kameradan-nesne-takibi/assets/121046682/37055a47-9453-48bc-ae66-f45f708f74d1
 
