@@ -24,4 +24,5 @@ Copy code
 python main.py
 Ekran Görüntüleri
 github_1
-![github_1](https://github.com/necipsahamettinkucuk/IP-kameradan-nesne-takibi/assets/121046682/0d378322-cd56-44e9-bd61-f1a3ae5b837d)
+![gifit_1702206252625](https://github.com/necipsahamettinkucuk/IP-kameradan-nesne-takibi/assets/121046682/7c18e35d-2e32-41db-95ec-2257dc6ec4e0)
+
