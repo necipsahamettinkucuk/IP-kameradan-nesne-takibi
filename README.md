@@ -15,7 +15,7 @@ YOLOv8 ağırlıklarını YOLOv8 GitHub sayfasından indirin ve proje dizinine y
 <br>
 Konfigürasyon Dosyasının Ayarlanması:<br>
 Kamera IP'leri ve o kameraların ID ve şifrelerini camera_1, camera_2 olarak belirtilen scriptlerin içinden ayarlayabilirsiniz. 
-<br><i>Not: Daha fazla kameranız varsa eğer "camera" scriptlerini kopyalayıp çoğaltabilirsiniz bu işemi yaptıntan sonra oluiturduğunuz yeni scriptleri çağırmayı unutmayın</i>
+<br><i>Not: Daha fazla kameranız varsa eğer "camera" scriptlerini kopyalayıp çoğaltabilirsiniz bu işemi yaptıntan sonra oluşturduğunuz yeni scriptleri main'den çağırmayı unutmayın çağırmayı unutmayın</i>
  
 
 
