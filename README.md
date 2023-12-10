@@ -15,7 +15,7 @@ YOLOv8 ağırlıklarını YOLOv8 GitHub sayfasından indirin ve proje dizinine y
 <br> indirdiğiniz <b>yolov8s.pt</br> ağırlığınının dosya yolunu ai'nesnesinin içine kopyalayın.
 ![image](https://github.com/necipsahamettinkucuk/IP-kameradan-nesne-takibi/assets/121046682/b9f6713f-9c42-40d3-94a1-2cae6c0190e6)
 
-<br> Veri tabanı maksimum <b> 5 satır </b> olacak ekilde yazılmıştır. Gerek duyulduğunda duruma göre attırabilirsiniz.
+<br> Veri tabanı maksimum <b>5 satır</b> olacak ekilde yazılmıştır. Gerek duyulduğunda duruma göre attırabilirsiniz.
 
   
 <br>
