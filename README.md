@@ -13,6 +13,7 @@ IP kameralardan alınan görüntülerdeki canlı olarak insan yada nesne tespiti
 YOLOv8 Ağırlıklarının İndirilmesi: https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8s.pt
 YOLOv8 ağırlıklarını YOLOv8 GitHub sayfasından indirin ve proje dizinine yerleştirin.
 <br>İndirdiğiniz <b>yolov8s.pt</b> ağırlığınının dosya yolunu ai'nesnesinin içine kopyalayın.
+
 ![image](https://github.com/necipsahamettinkucuk/IP-kameradan-nesne-takibi/assets/121046682/b9f6713f-9c42-40d3-94a1-2cae6c0190e6)
 
 <br> Veri tabanı maksimum <b>5 satır</b> olacak ekilde yazılmıştır. Gerek duyulduğunda duruma göre attırabilirsiniz.
