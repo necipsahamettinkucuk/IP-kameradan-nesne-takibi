@@ -17,6 +17,5 @@ Konfigürasyon Dosyasının Ayarlanması:<br>
 Kamera IP'leri ve o kameraların ID ve şifrelerini camera_1, camera_2 olarak belirtilen scriptlerin içinden ayarlayabilirsiniz. 
 <br><i>Not: Daha fazla kameranız varsa eğer "camera" scriptlerini kopyalayıp çoğaltabilirsiniz bu işemi yaptıntan sonra oluşturduğunuz yeni scriptleri main'den çağırmayı unutmayın çağırmayı unutmayın</i>
  
-https://github.com/necipsahamettinkucuk/IP-kameradan-nesne-takibi/assets/121046682/45f85b71-1381-496a-9460-dc5f6d303b89
-
+https://github.com/necipsahamettinkucuk/IP-kameradan-nesne-takibi/assets/121046682/37055a47-9453-48bc-ae66-f45f708f74d1
 
